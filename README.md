@@ -6,5 +6,7 @@ Proposal:
 
 Project goals:
 - Implement the model
-- Reproduce experiments from the paper, and make experiment on sythetic data
-- Improve model performance
+- Reproduce experiments from the paper to show the benefits of joint VAE and LSTM training
+
+
+
